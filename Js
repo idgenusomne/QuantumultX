@@ -5,7 +5,6 @@
 [mitm]
 hostname= ws.60he.com
 
-
 */
 var body = $response.body;
 var url = $request.url;
